@@ -7,10 +7,14 @@
             }
         },
         // Hint: insert properties task (Object) and idx (Number)
+        props: {
+
+        }
     }
 </script>
 
 <template>
+    
     <!-- TODO: add your template code here --> 
    
 </template>
